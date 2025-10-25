@@ -1,2 +1,2 @@
 # agents
-this is a ai agents repo
+this is an ai agents repo
